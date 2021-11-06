@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @largefry
 - 👀 I’m interested in ... coding, naps, seeing the sun occasionally;
-- 🌱 I’m currently learning ... js;
+- 🌱 I’m currently learning ... how to coerce my human typeOf into robot;
 - 💞️ I’m looking to collaborate on ... anything && everything;
 - 📫 How to reach me ... mattcarrphoto@gmail.com will get a response;
 
