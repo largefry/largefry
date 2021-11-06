@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @largefry
-- 👀 I’m interested in ... coding, naps, seeing the sun occasionally;
+- 👀 I’m interested in ... let interests = ["coding", "naps", "seeing the sun occasionally"];
 - 🌱 I’m currently learning ... how to coerce my human typeOf into robot;
-- 💞️ I’m looking to collaborate on ... anything && everything;
+- 💞️ I’m looking to collaborate on ... anything && everything.. especially pair programming and challenges... ALL the challenges\!\!\!;
 - 📫 How to reach me ... mattcarrphoto@gmail.com will get a response;
 
 <!---
